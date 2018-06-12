@@ -1,1 +1,2 @@
 Tekst, który sobie zapiszemy w pliku tekst.txt
+A tak wyglądają po zapisie
